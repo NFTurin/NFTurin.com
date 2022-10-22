@@ -1,0 +1,19 @@
+img[src$='#inline']
+{
+    display: inline;
+	float: left;
+	width:15%;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#lineBreak']
+{
+	display: inline;
+	float: left;
+	clear: left;
+	width:15%;
+
+}
