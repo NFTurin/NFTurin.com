@@ -1,14 +1,22 @@
 ---
-title: "About Me"
+title: "About us"
 weight: 3
 header_menu: true
 ---
 
 ![](images/f3.png#inline) ![](images/f2.png#inline)
-![](images/f5.png#lineBreak) ![](images/f1.png#inline) ![](images/f4.png#inline)
+![](images/f5.png#inline) ![](images/f1.png#inline) ![](images/f4.png#inline)
 
 
-##### Professionel Experience
+---
+---
+
+
+
+
+
+
+Professionel Experience
 
 A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
 

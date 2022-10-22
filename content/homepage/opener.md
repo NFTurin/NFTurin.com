@@ -3,7 +3,7 @@ title: "Here we are"
 weight: 1
 ---
 
-Here we are, Steve and Francis, two crazy friends, based in Turin. We started out as two guys who had a love for drawing. Soon after we realized that we both shared a similar interest in cryptocurrency and blockchain technology.
+Here we are, Julius and Francis, two crazy friends, based in Turin. We started out as two guys who had a love for drawing. Soon after we realized that we both shared a similar interest in cryptocurrency and blockchain technology.
 
 Then Opensea and the Crypto - Apes - friends came and the NFT revolution started. And we were overwhelmed.
 

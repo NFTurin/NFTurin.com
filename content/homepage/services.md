@@ -20,18 +20,8 @@ We cannot anticipate much details but we consider it our pilot project and there
 
 ## Ongoing projects
 
-The second collection will likely be launched next October, it will have a more cartoonish inspiration and will be very colorful and funny. It will consist of about 350-400 original subjects. They will be minted on the Polygon blockchain and available on Opensea and Rarible. Smart contract, source files and images will all be on decentralized storage on the blockchain.
+The second collection will likely be launched next year, it will have a more cartoonish inspiration and will be very colorful and funny. It will consist of about 350-400 original subjects. They will be minted on the Polygon blockchain and available on Opensea and Rarible. Smart contract, source files and images will all be on decentralized storage on the blockchain.
 
 ![Sketches NFTurin 2nd NFT collection](images/sketches-NFTurin-2nd-NFT-collection.png)
 
 The first two pilot projects will be used to accumulate the experience needed to launch what is currently our most ambitious project: a collection of at least 10,000 subjects combined with a fantasy football game.
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
-
----
-
-Want to learn more about my services?
-
-Check out [this page](services) I created. It carries a lot more details...
