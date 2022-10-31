@@ -3,21 +3,13 @@ title: "About us"
 weight: 3
 header_menu: true
 ---
+Here we are, Julius and Francis, two crazy friends, based in Turin. We started out as two guys who had a love for drawing. Soon after we realized that we both shared a similar interest in cryptocurrency and blockchain technology.
 
-![](images/f3.png#inline) ![](images/f2.png#inline)
-![](images/f5.png#inline) ![](images/f1.png#inline) ![](images/f4.png#inline)
+Then Opensea and the Crypto - Apes - friends came and the NFT revolution started. And we were overwhelmed.
 
+We spent the first half of 2022 thinking, designing, researching ... Inspirations, suggestions, ideas to be translated into digital projects.
+
+Starting from July 2022, we started making our ideas and ambitions concrete. We have recruited 3 other friends to join the team and now the game is starting to get tough.
 
 ---
 ---
-
-
-
-
-
-
-Professionel Experience
-
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
